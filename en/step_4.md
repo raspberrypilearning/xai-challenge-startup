@@ -4,7 +4,7 @@ In this step, you will explore some predictive AI applications on the internet a
 
 --- task ---
 
-First, have a play with the Thing translator by [clicking this link](https://thing-translator.appspot.com/){:target="_blank"} (you’ll need a computer or device with a camera - if you don’t have one, you can skip to the next task). 
+First, have a play with the **Thing translator** by [clicking this link](https://thing-translator.appspot.com/){:target="_blank"} (you’ll need a computer or device with a camera - if you don’t have one, you can skip to the next task). 
 
 While you’re taking pictures of things, think about these questions and write the answers in your **blueprint**:
 
@@ -16,7 +16,7 @@ While you’re taking pictures of things, think about these questions and write 
 
 --- task ---
 
-Once you’ve had enough of the Thing Translator, have a play with an AI powered game called Quick Draw by [clicking this link](https://quickdraw.withgoogle.com/){:target="_blank"}. (You can use your mouse or trackpad to draw.)
+Once you’ve had enough of the Thing Translator, have a play with an AI powered game called **Quick Draw** by [clicking this link](https://quickdraw.withgoogle.com/){:target="_blank"}. (You can use your mouse or trackpad to draw.)
 
 While you’re drawing, think about these questions and write the answers in your **blueprint**:
 
