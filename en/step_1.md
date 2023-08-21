@@ -1,59 +1,31 @@
-## Introduction
+## Welcome!
+**You’re about to become a creator of artificial intelligence. (AI)** The guide you are now reading will help you through the process of designing, coding, training and testing a Machine Learning (ML) model that will use an online music database to create the soundtrack to your life!
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
 
-### What you will make
+### By completing the Experiment AI Music Quest quest you will: 
++ Create a Scratch project that can search for and play songs from an online music database
++ Train a machine learning model using categories of songs that suit your lifestyle
++ Create a Scratch project that takes the data from your machine learning model and predicts music based on your tastes
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![A screenshot of a finished classification application with three colourful sprites showing different playlists and a bright background. You can see statistics for different values on the right - BPM, energy,danceability, speechiness and happiness.](images/wellness_screen_kpop.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### To complete the quest you’ll need:
++ A computer with an internet connection
++ Headphones (recommended) or speakers
++ A printed [Blueprint](resources/blueprint.pdf){:target="_blank"} document to record your plan
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Use the <b>Blueprint document</b> you've been given to keep notes on your project as it progresses, and answer the design questions in the spaces provided - it helps to keep your ideas in one place. (Write your name on it now, so it doesn't get lost!)
+</p>
 
-+ A computer or tablet capable of running Scratch 3
+### Let's get started!
 
-### Software
+--- task ---
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+Because you're part of our **VIP Pilot Cohort** and among the **first people in the world** to try this quest, The very first step is to complete the short [Creator Survey by clicking here](https://cambridge.eu.qualtrics.com/jfe/form/SV_8psZlvVQvNNI4ke){:target='_blank'}.
 
-### Downloads
+--- /task ---
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+When you're done, come back and move on to the first step on your road to making an AI DJ!
 
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---

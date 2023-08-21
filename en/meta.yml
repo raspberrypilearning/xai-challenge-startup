@@ -1,11 +1,14 @@
-title: default-project-template
+title: ExperienceAI Challenge | Stage 1 | What is Machine Learning?
 hero_image: images/banner.png
-description: default-project-template description
+description: In this first stage of the ExperimentAI Music quest, you will explore AI by playing with some fun apps which use machine learning, creating your first machine learning model and thinking about who will use your AI and Spotify application and how it can improve their life.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
+  - title: Welcome!
   - title: Introduction
-  - title: Step title
+  - title: What is AI and Machine Learning?
+  - title: Play with predictive AI
+  - title: Make a machine learning model
   - title: What next?
