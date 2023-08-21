@@ -8,7 +8,7 @@
 + Create a Scratch project that takes the data from your machine learning model and does something based on the new data your user provides
 
 
-![A screenshot of a finished classification application with three colourful sprites showing different playlists and a bright background. You can see statistics for different values on the right - BPM, energy,danceability, speechiness and happiness.](images/wellness_screen_kpop.png)
+![A screenshot of a finished classification application with three colourful sprites showing different playlists and a bright background. You can see statistics for different values on the right - BPM, energy,danceability, speechiness and happiness.](images/MLapp.png)
 
 ### To complete the Challenge you’ll need:
 + A computer with an internet connection
