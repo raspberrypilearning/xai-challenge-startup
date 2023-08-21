@@ -16,5 +16,5 @@ From helping scientists sort stars in the sky 🌌 to picking out ripe fruit in 
 
 + Create a machine learning model on Machine Learning 4 Kids that can tell apples from tomatoes
 
-+ Choose who your user will be and what kind of data you want to classify with machine learning
++ Choose what kind of data you want to classify with machine learning and think about the kind of ML project you want to make
 

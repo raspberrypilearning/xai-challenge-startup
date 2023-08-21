@@ -1,7 +1,3 @@
-Got it! Let's take the example of a digital plant identifier which uses image classification to determine the type of plant from a photograph.
-
----
-
 ## What is AI and Machine Learning?
 
 **Artificial intelligence** (AI) is a type of computing technology that helps machines perform tasks that typically require human-like intelligence. This includes tasks like recognizing speech, identifying objects in images, and processing vast amounts of data autonomously. Instead of imitating human intelligence, AI crafts algorithms and systems that can comprehend and act on information without humans dictating every single step.
