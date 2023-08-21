@@ -16,10 +16,3 @@ Before you can move on, you need to decide what sort of model you want to work w
 
 
 ![ProjectName project](images/banner.png)
-
-
-
-
-
-
-{:target="_blank"}
