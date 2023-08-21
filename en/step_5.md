@@ -158,4 +158,4 @@ This is called **bias**, which means the computer is favouring one thing over an
 By using more diverse and representative training data, we can help ensure that the computer makes accurate and fair predictions when it encounters new examples. This can make the computer more useful and reliable for different applications, from identifying objects in photos to making decisions in healthcare or finance.
 </p>
 
-Let's start making your machine learning application and think about what it will do!
+Let's start making a machine learning application!
