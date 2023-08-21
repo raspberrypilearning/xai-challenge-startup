@@ -8,7 +8,7 @@ Before you can move on, you need to decide what sort of model you want to work w
 
 --- task ---
 
-**Click on of the options below to continue your quest.**
+**Click one of the options below to continue your quest.**
 
 The warm-up projects for each data type are:
 
