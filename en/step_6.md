@@ -12,7 +12,7 @@ Before you can move on, you need to decide what sort of model you want to work w
 
 The warm-up projects for each data type are:
 
-**Images:** [Seefood](rpf.io/seefood){:target="_blank"}: Create a machine learning classifier which cat tell whether a picture is of a hotdog... or not.
+**Images:** [Seefood](rpf.io/seefood){:target="_blank"}: Create a machine learning classifier which can tell whether a picture is of a hotdog... or not.
 
 **Audio:** [Chatterbox](rpf.io/chatterbox){:target="_blank"}: Create a machine learning model which can control a sprite on screen when it hears the words 'left', 'right', 'up' or 'down'.
 
