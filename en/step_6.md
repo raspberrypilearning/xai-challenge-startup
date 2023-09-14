@@ -12,13 +12,11 @@ Before you can move on, you need to decide what sort of model you want to work w
 
 The warm-up projects for each data type are:
 
-**Images:** [Seefood](rpf.io/seefood){:target="_blank"}: Create a machine learning classifier which can tell whether a picture is of a hotdog... or not.
+**Images:** [Seefood]([rpf.io/seefood](https://projects.raspberrypi.org/en/projects/xai-challenge-image-classfier)){:target="_blank"}: Create a machine learning classifier which can tell whether a picture is of a hotdog... or not.
 
-**Audio:** [Chatterbox](rpf.io/chatterbox){:target="_blank"}: Create a machine learning model which can control a sprite on screen when it hears the words 'left', 'right', 'up' or 'down'.
+**Audio:** [Chatterbox]([rpf.io/chatterbox](https://projects.raspberrypi.org/en/projects/xai-challenge-audio-classfier)){:target="_blank"}: Create a machine learning model which can control a sprite on screen when it hears the words 'left', 'right', 'up' or 'down'.
 
-**Text:** [Hero or Villain](rpf.io/hero){:target="_blank"}: Create a machine learning model that can tell whether the text you enter would most likely be said by a hero or a villain.
-
-**Number:** [TBD](https://www.youtube.com/watch?v=dQw4w9WgXcQ){:target="_blank"}: Do something with data.
+**Text:** [Hero or Villain]([rpf.io/hero](https://projects.raspberrypi.org/en/projects/xai-challenge-text-classifier)){:target="_blank"}: Create a machine learning model that can tell whether the text you enter would most likely be said by a hero or a villain.
 
 --- /task ---
 
