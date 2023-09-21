@@ -2,8 +2,8 @@
 **You’re about to become a creator of artificial intelligence (AI).** The guide you are now reading will help you through the process of designing, coding, training and testing a Machine Learning (ML) model that will classify data and do whatever you can think of!
 
 
-### By completing the Experiment AI Challenge quest you will: 
-+ Create a machine learning model that classfies one of four types of data: numbers, text, audio or images
+### By completing the Experiment AI Challenge you will: 
++ Create a machine learning model that classifies one of four types of data: numbers, text, audio or images
 + Train a machine learning model using categories of data you choose
 + Create a Scratch project that takes the data from your machine learning model and does something based on the new data your user provides
 
