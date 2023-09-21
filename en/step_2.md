@@ -1,6 +1,6 @@
 ## Introduction
 
-In this first stage of the ExperimentAI Challenge, you will explore AI by playing with some fun apps which use Machine Learning (an approach taken to create AI applications), creating your first machine learning model and thinking about who will use your AI application and how it can improve their life. You'll also need to pick which kind of data your aplpication will classify: numbers, text, audio or images.
+In this first stage of the ExperimentAI Challenge, you will explore AI by playing with some fun apps which use Machine Learning (an approach taken to create AI applications), creating your first machine learning model and thinking about who will use your AI application and how it can improve their life. You'll also need to pick which kind of data your application will classify: numbers, text, audio or images.
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
