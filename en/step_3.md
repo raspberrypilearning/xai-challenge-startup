@@ -1,6 +1,6 @@
 ## What is AI and Machine Learning?
 
-**Artificial intelligence** (AI) is a type of computing technology that helps machines perform tasks that typically require human-like intelligence. This includes tasks like recognizing speech, identifying objects in images, and processing vast amounts of data autonomously. Instead of imitating human intelligence, AI crafts algorithms and systems that can comprehend and act on information without humans dictating every single step.
+**Artificial intelligence** (AI) systems are a type of computing technology that enables machines to execute tasks that typically require human-like intelligence. This includes tasks like recognizing speech, identifying objects in images, and processing vast amounts of data autonomously. Instead of replicating human intelligence, AI systems utilize algorithms and models that can comprehend and act on information without human intervention at every single step.
 
 Most coding you've done before is likely **rules-based**. That means you've provided the computer with a specific set of instructions it must follow exactly: `If this, then that.` 
 
@@ -24,7 +24,7 @@ It would be a colossal task to manually craft rules for identifying every single
 
 Imagine you have a big box of puzzle pieces, and each piece has a picture of a plant on it. At first, you might not know which plant is which. But if you look at enough puzzle pieces and someone tells you the name of the plant on each piece, you'll start to notice differences between them, like the shape of the leaves or the color of the flowers.
 
-An image classification model does something similar. It looks at lots and lots of pictures of plants, and it learns the differences between them. So, when you show it a new picture of a plant, it can check that picture against all the others it has seen before and tell you what kind of plant it most likely is. It's like a quick game of "match the puzzle piece" every time it sees a new photo.
+An image classification model does something similar. It processes lots and lots of pictures of plants, and it recognises patterns in the data and differences between them. So, when you classify a new picture of a plant, the model can compare that picture with all the others it has processed before and determine the most likely type of plant it represents. It's like a quick game of "match the puzzle piece" every time it processes a new photo.
 
 Can you think of other scenarios where machines need to classify inputs into categories, or recognise specific things in your daily life? (**Hint:** not all things just look at pictures! Some ML models detect different sounds or voices, some use written words and others still use numbers and information about things like the weather!)
 

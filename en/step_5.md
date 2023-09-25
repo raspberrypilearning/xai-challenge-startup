@@ -148,14 +148,14 @@ Once you have tested a few of the images, answer the following questions in your
 
 ### Bias and data
 
-When we teach a computer to recognize different things, like apples and tomatoes, we need to give it lots of examples to learn from. These examples are called **training data**.
+When programming a computer to recognize different things, like apples and tomatoes, lots of examples are needed for it to process.These examples are called **training data**.
 
 If we use a training dataset that contains mostly red tomatoes and green apples, this does not accurately represent the real world as there are also red apples and even green tomatoes. If the data used to train the model is not representative of what you're trying to model, neither will the prediction be which your model makes.
 
-This is called **bias**, which means the computer is favouring one thing over another. We can fix this by using a more diverse training dataset that includes different types and colours of apples and tomatoes. By doing this, we can help the computer learn to recognize the features that distinguish each type of fruit, rather than just relying on the colour of the training examples.
+This is called **bias**, which means the computer is favouring one thing over another. We can fix this by using a more diverse training dataset that includes different types and colours of apples and tomatoes. By doing this, we can allow the computer to distinguish the features that characterize each type of fruit, rather than just relying on the colour of the training examples.
 
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-By using more diverse and representative training data, we can help ensure that the computer makes accurate and fair predictions when it encounters new examples. This can make the computer more useful and reliable for different applications, from identifying objects in photos to making decisions in healthcare or finance.
+By using more diverse and representative training data, we can help ensure that the model makes accurate and fair predictions when it encounters new examples. This can make the model more useful and reliable for different applications, from identifying objects in photos to making decisions in healthcare or finance.
 </p>
 
 Let's start making a machine learning application!
