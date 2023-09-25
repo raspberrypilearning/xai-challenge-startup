@@ -4,13 +4,13 @@ In this step, you will explore some predictive AI applications on the internet a
 
 --- task ---
 
-First, have a play with the **Thing translator** by [clicking this link](https://thing-translator.appspot.com/){:target="_blank"} (you’ll need a computer or device with a camera - if you don’t have one, you can skip to the next task). 
+First, have a play with **Dictation.io** by [clicking this link](https://dictation.io/speech){:target="_blank"} (you’ll need to give your browser permission to use your microphone - if you don't have one, you can skip to the next task). 
 
-While you’re taking pictures of things, think about these questions and write the answers in your **blueprint**:
+Click the blue Start button to start the application. While you’re dictating things, think about these questions and write the answers in your **blueprint**:
 
 1. What is the application doing? What clues can you see on the screen?
 
-2. How do you think the application works to output/ produce these predictions?
+2. How do you think the application works to output/ produce these predictions? Can you trick it?
 
 --- /task ---
 
@@ -39,7 +39,7 @@ Watch the [Video about Quick Draw](https://youtu.be/X8v1GWzZYJ4){:target="_blank
 
 Each one of those example images will be stored in the model’s training data as part of a **class**. When it is comparing your image to the examples it has been trained on, the model is measuring how closely your image fits the pattern it has detected in each class, and this is what it predicts - the level of certainty that your **sample data** should be in this class. 
 
-Because of this, **the more and wider examples of training data you can train the model with, the more certain it can be that the sample fits a particular class**.
+Because of this, **the more and wider examples of training data you can train the model with, the more certainty it will show that the sample fits a particular class**.
 
 ### Think about: Bias
 
