@@ -12,7 +12,7 @@ AI applications serve as a powerful tool in various domains, from aiding scienti
 </p>
 
 ### You will:
-+ Explore AI and machine learning by using some fun online apps
++ Explore AI systems and machine learning by using some fun online apps
 
 + Create a machine learning model on Machine Learning 4 Kids that can tell apples from tomatoes
 
