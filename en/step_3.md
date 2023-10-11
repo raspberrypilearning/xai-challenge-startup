@@ -1,14 +1,14 @@
 ## What is AI and Machine Learning?
 
-**Artificial intelligence** (AI) systems are a type of computing technology that enables machines to execute tasks that typically require human-like intelligence. This includes tasks like recognizing speech, identifying objects in images, and processing vast amounts of data autonomously. Instead of replicating human intelligence, AI systems utilise algorithms and models that can comprehend and act on information without human intervention at every single step.
+**Artificial intelligence** (AI) systems are a type of computing technology that enables machines to execute tasks that typically require human-like intelligence. This includes tasks like recognising speech, identifying objects in images, and processing vast amounts of data autonomously. Instead of replicating human intelligence, AI systems process large amounts of data to perform complex tasks.
 
 Most coding you've done before is likely **rules-based**. That means you've provided the computer with a specific set of instructions it must follow exactly: `If this, then that.` 
 
-However, machine learning (ML) doesn't work that way — it's **data-driven**.  Instead of using lots and lots of rules to cover every possibility, machine learning takes large amounts of data about a particular topic to build an ML model. The ML model is a representation of something. Usually the representation is of the real world, but it can also be of an imaginary context.
+However, machine learning (ML) doesn't work that way — it's **data-driven**.  Instead of using lots and lots of rules to cover every possibility, machine learning takes large amounts of data about a particular topic to build an ML model. The ML model detects patterns in that data to create a representation of something in the physical world.
 
 <div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 <h3>Example: Digital Plant Identifier</h3>
-Imagine you're on a nature walk and you come across a plant you've never seen before. You're curious to know what it is. With a digital plant identifier, you can snap a photo of it, and the app will tell you its name!
+Imagine you're on a nature walk and you come across a plant you've never seen before. You're curious to know what it is. With a digital plant identifier, you can snap a photo of it, and the app will predict what plant it is!
 <br><br>
 <span style="color: #0faeb0">Leaf Shape:</span> The model might look for specific patterns or shapes commonly found in certain plants. Long and thin or broad and open? One frond or multiple?
 <br><br>
@@ -16,7 +16,7 @@ Imagine you're on a nature walk and you come across a plant you've never seen be
 <br><br>
 <span style="color: #0faeb0">Size and Height:</span> Some plants are tall; others are short. This can be another clue.
 <br><br>
-When you upload a picture to the app, it sifts through its database of plant images and matches your photo to the closest resemblance, classifying it as a specific plant.
+When you upload a picture to the app, it compares patterns in it's trained model and matches your photo data to the closest resemblance, classifying it as the most likely plant.
 
 </div>
 

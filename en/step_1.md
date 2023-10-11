@@ -1,5 +1,5 @@
 ## Welcome!
-**You’re about to become a creator of an artificial intelligence (AI) system.** The guide you are now reading will help you through the process of designing, coding, training and testing a Machine Learning (ML) model that will classify data and do whatever you can think of!
+**You’re about to become a creator of an Artificial Intelligence (AI) system.** The guide you are now reading will help you through the process of designing, coding, training and testing a Machine Learning (ML) model that will classify data and do whatever you can think of!
 
 
 ### By completing the Experiment AI Challenge you will: 
