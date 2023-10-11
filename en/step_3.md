@@ -1,6 +1,6 @@
 ## What is AI and Machine Learning?
 
-**Artificial intelligence** (AI) systems are a type of computing technology that enables machines to execute tasks that typically require human-like intelligence. This includes tasks like recognizing speech, identifying objects in images, and processing vast amounts of data autonomously. Instead of replicating human intelligence, AI systems utilize algorithms and models that can comprehend and act on information without human intervention at every single step.
+**Artificial intelligence** (AI) systems are a type of computing technology that enables machines to execute tasks that typically require human-like intelligence. This includes tasks like recognizing speech, identifying objects in images, and processing vast amounts of data autonomously. Instead of replicating human intelligence, AI systems utilise algorithms and models that can comprehend and act on information without human intervention at every single step.
 
 Most coding you've done before is likely **rules-based**. That means you've provided the computer with a specific set of instructions it must follow exactly: `If this, then that.` 
 
