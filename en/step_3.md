@@ -20,20 +20,10 @@ When you upload a picture to the app, it uses the patterns in its trained model 
 
 </div>
 
-It would be a colossal task to manually craft rules to identify every single plant. But with machine learning, it's possible to develop an **image classification model** that uses pictures to classify and recognise various plant species.
+It would be a colossal task to manually craft rules to identify every single plant. But with machine learning, it's possible to develop an **image classification model** that uses pictures to classify various plant species.
 
-For example, imagine you have a big box of puzzle pieces, and each piece has a picture of a plant on it. At first, you might not know which plant is which. But if you look at enough puzzle pieces and someone tells you the name of the plant on each piece, you'll start to notice differences between them, like the shape of the leaves or the colour of the flowers.
+For example, imagine you have a big box of cards, and each card has a picture of a plant on it. At first, you might not know which plant is which. But if you look at enough cards and someone tells you the name of the plant on each one, you'll start to notice differences between them, like the shape of the leaves or the colour of the flowers.
 
-An image classification model does something similar. It processes lots and lots of pictures of plants, and it detects patterns in the data and the differences between plants. So, when you input a new picture of a plant, the model can compare that picture with all the others it has processed before and determine the most likely type of plant it represents. It's like a quick game of "match the puzzle piece" every time it processes a new photo.
+An image classification model does something similar. It processes lots and lots of pictures of plants, and it detects patterns in the data to identify the differences between plants. So, when you input a new picture of a plant, the model can compare that image data with all the other data it has processed before and determine the most likely type of plant that image represents. It's like a quick game of "match the card" every time it processes a new photo.
 
 Can you think of other scenarios where machines need to classify inputs into categories, or recognise specific things in your daily life? (**Hint:** Not all systems use pictures! Some ML models detect different sounds or voices, some use written words, and others use numbers and information about things like the weather!)
-
---- task ---
-
-**Think: Where have you seen technology recommending things you might like?**
-
-Fill in the first table in your Blueprint document with your ideas.
-
-Chat with someone else to see if they have any other ideas - you might be surprised just how many classification models you have seen!
-
---- /task ---
