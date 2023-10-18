@@ -1,10 +1,8 @@
 ## What next?
 
-Continue on your **Experience AI Challenge** and  move on to Stage 2 - Create a classification app.
+Continue on your your journey through the **Experience AI Challenge** and move on to Stage 2 - Create a classification app.
 
-In the next stage, you will create a machine learning model, then code an application that classifies songs in Scratch to help test your new machine learning model. This is only a warm-up exercise to get you used to using machine learning platforms in your chosen data type.
-
-Before you can move on, you need to decide what sort of model you want to work with. 
+This is a warm-up exercise to get you used to using machine learning platforms in your chosen data type. You'll build your own model and app in Stage 3! But first, you need to decide what sort of model and data you want to work with. 
 
 --- task ---
 
@@ -12,9 +10,9 @@ Before you can move on, you need to decide what sort of model you want to work w
 
 The warm-up projects for each data type are:
 
-**Images:** [Seefood](https://projects.raspberrypi.org/en/projects/xai-challenge-image-classifier){:target="_blank"}: Create a machine learning classifier which can tell whether a picture is of a hotdog... or not.
+**Images:** [Seefood](https://projects.raspberrypi.org/en/projects/xai-challenge-image-classifier){:target="_blank"}: Create a machine learning classifier that can tell whether a picture is of a hotdog...or not.
 
-**Audio:** [Chatterbox](https://projects.raspberrypi.org/en/projects/xai-challenge-audio-classifier){:target="_blank"}: Create a machine learning model which can control a sprite on screen when it hears the words 'left', 'right', 'up' or 'down'.
+**Audio:** [Chatterbox](https://projects.raspberrypi.org/en/projects/xai-challenge-audio-classifier){:target="_blank"}: Create a machine learning model that can control a character on screen when it hears the words 'left', 'right', 'up', or 'down'.
 
 **Text:** [Hero or Villain](https://projects.raspberrypi.org/en/projects/xai-challenge-text-classifier){:target="_blank"}: Create a machine learning model that can tell whether the text you enter would most likely be said by a hero or a villain.
 
