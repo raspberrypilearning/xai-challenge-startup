@@ -152,10 +152,10 @@ When training an ML model to recognise different things, like apples and tomatoe
 
 If we use a training data set that contains mostly red tomatoes and green apples, this does not accurately represent the real world as there are also red apples and even green tomatoes. If the data used to train the model is not representative of what you're trying to model, then the prediction that your model makes won't be representative of the real world either.
 
-This is called **bias**, which means that some outcomes or predictions are favoured over others. We can fix this by using a more diverse training data set. For example, we could use a data set that includes different types and colours of apples and tomatoes. By doing this, we can train the model to distinguish other features that characterise each type of fruit, rather than just relying on the colour.
+This is called **bias**, which means that some outcomes or predictions are favoured over others. We can fix this by using a more varied training data set. For example, we could use a data set that includes different types and colours of apples and tomatoes. By doing this, we can train the model to identify other features that can be used to classify each type of fruit, rather than just relying on the colour.
 
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-By using more diverse and representative training data, we can help ensure that the model makes accurate and fair predictions when it encounters new examples. This makes the model more useful and reliable for different applications, from identifying objects in photos to aiding decision-making in healthcare or finance.
+By using more varied and representative training data, we can help ensure that an ML model makes accurate and fair predictions when it encounters new examples. This makes a model more useful and reliable, whether it's identifying objects in photos or aiding decision-making in healthcare or finance.
 </p>
 
 Let's start making a machine learning application!
