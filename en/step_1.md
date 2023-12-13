@@ -15,7 +15,7 @@
 + A [Blueprint](resources/blueprint.pdf){:target="_blank"} document or notebook to record your plan
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Use the <b>Blueprint document</b> to keep notes on your project as it progresses, and to answer the design questions in the spaces provided - it helps to keep your ideas in one place. (Write your name on it now, so it doesn't get lost!) If you don't have a Blueprint, you can keep your notes on a piece of paper or a notebook.
+Use the <b>Blueprint document</b> to keep notes on your project as it progresses, and to answer the design questions in the spaces provided — it helps to keep your ideas in one place. (Write your name on it now, so it doesn't get lost!) If you don't have a Blueprint, you can keep your notes on a piece of paper or a notebook.
 </p>
 
 #### Optional extras
