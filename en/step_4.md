@@ -4,9 +4,9 @@ In this step, you will explore some predictive AI applications on the internet a
 
 --- task ---
 
-First, have a play with **Dictation.io** by [clicking this link](https://dictation.io/speech){:target="_blank"} (you’ll need to give your browser permission to use your microphone — if you don't have one, you can skip to the next task). 
+First, have a play with **Speechtexter** by [clicking this link](https://www.speechtexter.com/){:target="_blank"} (you’ll need to give your browser permission to use your microphone — if you don't have one, you can skip to the next task). 
 
-Click the blue **Start** button to start the application. While you’re dictating things, think about these questions and write the answers in your **Blueprint**:
+Click the green microphone button to start the application. While you’re dictating things, think about these questions and write the answers in your **Blueprint**:
 
 1. What is the application doing? What clues can you see on the screen?
 
@@ -16,7 +16,7 @@ Click the blue **Start** button to start the application. While you’re dictati
 
 --- task ---
 
-Once you’ve had enough of dictation, have a play with an AI-powered game called **Quick, Draw!** by [clicking this link](https://quickdraw.withgoogle.com/){:target="_blank"}. (You can use your mouse or trackpad to draw.)
+Once you’ve had enough of speechtexter, have a play with an AI-powered game called **Quick, Draw!** by [clicking this link](https://quickdraw.withgoogle.com/){:target="_blank"}. (You can use your mouse or trackpad to draw.)
 
 While you’re drawing, think about these questions and write the answers in your **Blueprint**:
 
