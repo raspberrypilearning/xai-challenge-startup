@@ -22,14 +22,3 @@ Use the <b>Blueprint document</b> to keep notes on your project as it progresses
 + Headphones (recommended, but not necessary) or speakers
 + A microphone if you want to record audio
 + A camera if you want to take pictures (**not** **required** for image classification)
-
-### Let's get started!
-
---- task ---
-
-Because you're among the **first people in the world** to try this quest, the very first step is to complete the short [Creator Survey by clicking here](https://cambridge.eu.qualtrics.com/jfe/form/SV_8psZlvVQvNNI4ke){:target='_blank'}.
-
---- /task ---
-
-When you're done, come back to this guide and find out what the first step is on your road to making an AI application!
-
